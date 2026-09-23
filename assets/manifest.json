@@ -1,0 +1,522 @@
+{
+  "gm_instruments": {
+    "0": {
+      "name": "Acoustic Grand Piano",
+      "file": "value.b38bdb16b398d4f3931cbc9095a919c415f5792e3f346f57be71130ced4ff92b.ogg"
+    },
+    "1": {
+      "name": "Bright Acoustic Piano",
+      "file": "value.699215be0455bb6420098cc0561d03fe119d68641195214cf9c572a60d247641.ogg"
+    },
+    "2": {
+      "name": "Electric Grand Piano",
+      "file": "value.576d484cb9c5edd9c46d173834e60ef7522385645186d1e88f016e049ce6e997.ogg"
+    },
+    "3": {
+      "name": "Honkytonk Piano",
+      "file": "value.af150f4afad72608da2ac4a64884bd2e278e7e25268ee8ecb804b4bbd8fd961f.ogg"
+    },
+    "4": {
+      "name": "Electric Piano 1",
+      "file": "value.461e138a0500de3e28ee30ba04720fdba2ba0e6c0d1073637a2bd6dff3fa344c.ogg"
+    },
+    "5": {
+      "name": "Electric Piano 2",
+      "file": "value.47a9d7a903806857af2c1fba1ce464c3f48d43e5f0ec8003eb861001811ef429.ogg"
+    },
+    "6": {
+      "name": "Harpsichord",
+      "file": "value.32acc1021034f6cc79163791973caeafd492a5aa845161f645c7275cb359427e.ogg"
+    },
+    "7": {
+      "name": "Clavinet",
+      "file": "value.87d627f17fd5320913798a5b6490fe383dfb244a2b4301d527c1ecb77223fcac.ogg"
+    },
+    "8": {
+      "name": "Celesta",
+      "file": "value.b33f0de4ab71ca230641d831b6ca52f24bd8b193d5ebf32eca9a341e97f4a728.ogg"
+    },
+    "9": {
+      "name": "Glockenspiel",
+      "file": "value.42012861cb4e43e6d7d9b5cf211cb87d75868a466f245f51f9ab23592d82e4d6.ogg"
+    },
+    "10": {
+      "name": "Music Box",
+      "file": "value.25c518cec8ecdc660c761593821bab7cf2a717957ffbeeb0c79d1b6aae7f6d0d.ogg"
+    },
+    "11": {
+      "name": "Vibraphone",
+      "file": "value.82b0994b1db423ca5f7f3ea356100c90a9f6dfa4ea36ee6db5994f3d15f331ee.ogg"
+    },
+    "12": {
+      "name": "Marimba",
+      "file": "value.3e3daff5af739f84c0eed612bbda33951a9fdc11b3402573b837e220897ce370.ogg"
+    },
+    "13": {
+      "name": "Xylophone",
+      "file": "value.dd582be4649098dac746ba71ef59ed9a4b3da758ba0e6c573c0c3442a934d566.ogg"
+    },
+    "14": {
+      "name": "Tubular Bells",
+      "file": "value.bb7ef97d765fd6cc44f436a4be84fc4207db6180df9216b5daa176aecf94eb92.ogg"
+    },
+    "15": {
+      "name": "Dulcimer",
+      "file": "value.facd236bfe42fc60395bc0a968a5673e671261b4411e6a4a4667f97d50243f49.ogg"
+    },
+    "16": {
+      "name": "Drawbar Organ",
+      "file": "value.f5af946371e839cf014467f403571462de986f1d60795fe6c22f2e4bdfc44b63.ogg"
+    },
+    "17": {
+      "name": "Percussive Organ",
+      "file": "value.1daf194aa0ecbd454926aedc18d54fcb7cd9f2657e516f3f0dddf2f118a067d3.ogg"
+    },
+    "18": {
+      "name": "Rock Organ",
+      "file": "value.22b456395fcdf04db69b7d4324a510519775b0c268fd6506b921398ead8d7e51.ogg"
+    },
+    "19": {
+      "name": "Church Organ",
+      "file": "value.38dbb04f681410fcc6ebcbc73810de699b1f399ad58add55d9b8dff4a8f492b1.ogg"
+    },
+    "20": {
+      "name": "Reed Organ",
+      "file": "value.aeee3ab0296134e621d4bcc9e4b4d50f2876c3bde85b9e9c37181a47959d9624.ogg"
+    },
+    "21": {
+      "name": "Accordion",
+      "file": "value.01b6ba8b29193c6407c3990fb42fea026e412559d8f857b2f75131c342b08b37.ogg"
+    },
+    "22": {
+      "name": "Harmonica",
+      "file": "value.2a0054b95b56ce946b493a55e5f22885aa602e8f9d5d22be757427d8ccf84a00.ogg"
+    },
+    "23": {
+      "name": "Tango Accordion",
+      "file": "value.bac2cdcb473280ab647200ee426ea6aaf6ed14a2f5854791bdea353d8275385a.ogg"
+    },
+    "24": {
+      "name": "Acoustic Guitar Nylon",
+      "file": "value.57b0d375245ff5327f1d3ab9f7e70c2337f5b398f17bf980ab82446104338c7a.ogg"
+    },
+    "25": {
+      "name": "Acoustic Guitar Steel",
+      "file": "value.e255108d0e4bcf3ecec3d754e4cc0f5adcaed424aee4b86fd1c7e3231f790547.ogg"
+    },
+    "26": {
+      "name": "Electric Guitar Jazz",
+      "file": "value.f4ce004b052c321422acc7b845b478db3b2521865a14187df45a8f7898ce9fb5.ogg"
+    },
+    "27": {
+      "name": "Electric Guitar Clean",
+      "file": "value.c4a4eefa9786957f2aeadf882dda81a5eae611b61c0133d31473a79bee4e59ff.ogg"
+    },
+    "28": {
+      "name": "Electric Guitar Muted",
+      "file": "value.c378d20c8c0164c6d7bae6dcd4d7a62ac21fd1a9e69f0a0133b809318dbcd1e3.ogg"
+    },
+    "29": {
+      "name": "Overdriven Guitar",
+      "file": "value.00adf245befce45c1f606575e2af37b10b7ed7ec788d118985d113a79761a6cb.ogg"
+    },
+    "30": {
+      "name": "Distortion Guitar",
+      "file": "value.4f83d72b645925e8850dd273dd83053a771d10825f71b144a4df53d1b4b3e03a.ogg"
+    },
+    "31": {
+      "name": "Guitar Harmonics",
+      "file": "value.13296e1c9369403ddc295789f3a14283ff5bed71c529ed80119375ca338abf9d.ogg"
+    },
+    "32": {
+      "name": "Acoustic Bass",
+      "file": "value.4e54d35296264d42a71c0a5f969686dffca6f49c5ed5674948144ec50af71a38.ogg"
+    },
+    "33": {
+      "name": "Electric Bass Finger",
+      "file": "value.6d1b3fb6e517302cc2fbab290be7f4a7c1a8943cb55a5fa41cbb30da454883a3.ogg"
+    },
+    "34": {
+      "name": "Electric Bass Pick",
+      "file": "value.3b17c001b995b594401edaee0ed488ecc93e6d71e71b3f069ecfb1cda41a7711.ogg"
+    },
+    "35": {
+      "name": "Fretless Bass",
+      "file": "value.fec137b49cddeb22f68ce387099ba48e30a2329ff521d9d4b3c8a92f7a6bb26b.ogg"
+    },
+    "36": {
+      "name": "Slap Bass 1",
+      "file": "value.91bb750fb98b6148ab700326d988a07ee7223e79ecee7a4a1496f93ee49c54e4.ogg"
+    },
+    "37": {
+      "name": "Slap Bass 2",
+      "file": "value.4464c1446b15ddfa952451174138a5ac9884de4c9d7dc343d5367db65b6fda72.ogg"
+    },
+    "38": {
+      "name": "Synth Bass 1",
+      "file": "value.94258cae1419acf292048a3d2781a7a41686a8c02792264a3579463d0abc2a00.ogg"
+    },
+    "39": {
+      "name": "Synth Bass 2",
+      "file": "value.413289e1a79f77a7c830a3a3e99f073a53c6bbd3db7919f7aee45d7173ea35c2.ogg"
+    },
+    "40": {
+      "name": "Violin",
+      "file": "value.bc8cabaad5aaaea3c7eb60f27677dd8d956f96d63463820682f80067f7cceb18.ogg"
+    },
+    "41": {
+      "name": "Viola",
+      "file": "value.0a66b9c064978b2d91697ccb336ee41f106afd9b3958dd9ee716aa6ae36e50d4.ogg"
+    },
+    "42": {
+      "name": "Cello",
+      "file": "value.8c7bf9c1c813b7140849c4dbabd6f74714418c5da0fb0b2ba083960d49c4cdcf.ogg"
+    },
+    "43": {
+      "name": "Contrabass",
+      "file": "value.93f39f5eb98750848a9f426e63f5e8efe6e99588d107a3e744e27b11756194f4.ogg"
+    },
+    "44": {
+      "name": "Tremolo Strings",
+      "file": "value.bf350b5061fec8e9297488947ab0fb23ffb8da82321dbef930730cf12d9ba1c4.ogg"
+    },
+    "45": {
+      "name": "Pizzicato Strings",
+      "file": "value.4f44c782fed66730c0a9ee3a8a3ef6d791dda173e84fb0d4f52fcfdaa80daeba.ogg"
+    },
+    "46": {
+      "name": "Orchestral Harp",
+      "file": "value.9cbd432e9fb68b9d41981f7ca603538d89abd82ab63cb8a18acae4eb3b79eb2c.ogg"
+    },
+    "47": {
+      "name": "Timpani",
+      "file": "value.7a8c5daf74aa687735c65dd8f84826f7e670a275ea8bb73d68ca3dbac8403fbb.ogg"
+    },
+    "48": {
+      "name": "String Ensemble 1",
+      "file": "value.78782793ac7f87f494152a47ff8f2597659666258c71674861be05fbfc0fc65d.ogg"
+    },
+    "49": {
+      "name": "String Ensemble 2",
+      "file": "value.57fc1e1bf88a3db9d8f505b4c6bce8cd73873396c7148aaa6de027b7b7bb5277.ogg"
+    },
+    "50": {
+      "name": "Synth Strings 1",
+      "file": "value.efc8e1aba7f63445e4576b17dce330d89900be11b5a3cc8890e73910c5de38ee.ogg"
+    },
+    "51": {
+      "name": "Synth Strings 2",
+      "file": "value.730f83d06989f02bbec161eb38c5656006fdcb8b155e4516f52aaddd899810ea.ogg"
+    },
+    "52": {
+      "name": "Choir Aahs",
+      "file": "value.b89152eb03ed8e254c6737b7e7a214e58737e5f15c157fbceae2840a60f40522.ogg"
+    },
+    "53": {
+      "name": "Voice Oohs",
+      "file": "value.a2facac1fc7cde14fcabcd879c2acaa41ed856de0f4d56e9f37f16d4c8718226.ogg"
+    },
+    "54": {
+      "name": "Synth Choir",
+      "file": "value.213ae690d6d7c24b29516a04ac675f3f0556944097d8d61cdcbdfea43031602e.ogg"
+    },
+    "55": {
+      "name": "Orchestra Hit",
+      "file": "value.b110129352c0a25acae603c2ca3891f3100b97e9bc673a88eb57fdbc40b0684d.ogg"
+    },
+    "56": {
+      "name": "Trumpet",
+      "file": "value.b2bb2f64cf64c96d815051d02218389bda8bc4b2348020128becc3c2a5ec6d95.ogg"
+    },
+    "57": {
+      "name": "Trombone",
+      "file": "value.23a1028f3dfa23ba438c506be0e8d6fafc30246bcc93c16bc8887a9e1222f30d.ogg"
+    },
+    "58": {
+      "name": "Tuba",
+      "file": "value.48696bf2d6dc9caa70b85316db1acd7d69d49c88f6713dec167b72dc88f5dc0e.ogg"
+    },
+    "59": {
+      "name": "Muted Trumpet",
+      "file": "value.146ddfd2f5ff45e312b22982dc1059119359d3bda8f2e433bd12fe290e452d7f.ogg"
+    },
+    "60": {
+      "name": "French Horn",
+      "file": "value.d0481ea676d3484db4d978ab58ef681f55909ce8d706d5282407552ce418c73a.ogg"
+    },
+    "61": {
+      "name": "Brass Section",
+      "file": "value.acf8d6f2388b8f7f4b31698392a41f6fa2784982c98d1c2cb50f864680f00082.ogg"
+    },
+    "62": {
+      "name": "Synth Brass 1",
+      "file": "value.8a960d28172130087c426ef6ecca74127716ec609502cc868da5a0b416b192e0.ogg"
+    },
+    "63": {
+      "name": "Synth Brass 2",
+      "file": "value.2d85caefe6d5c9fb9435044fb586bc5c909e8cf01e467d4dba0fac642c915fcd.ogg"
+    },
+    "64": {
+      "name": "Soprano Sax",
+      "file": "value.4acb34e77d61a727c7269f05e0b11ebdd1f8574e99268effd0f89b6cabe5513f.ogg"
+    },
+    "65": {
+      "name": "Alto Sax",
+      "file": "value.b55eeec532c1e564ef85be62b6d10644062e7f1913e13497d149a8ac01bbee8a.ogg"
+    },
+    "66": {
+      "name": "Tenor Sax",
+      "file": "value.3f53aee22074792d7d69c8d66ac7cdb7be489be0a754e3934c3cae921585d773.ogg"
+    },
+    "67": {
+      "name": "Baritone Sax",
+      "file": "value.a70d92bcb525404afe1fa3fcaaf4955cf641fc9bf72ed4f6316896516d9c0784.ogg"
+    },
+    "68": {
+      "name": "Oboe",
+      "file": "value.8f301cbf3685a7d59a682551cac4964a83e7896b324e8c68e41a95b8c47079c5.ogg"
+    },
+    "69": {
+      "name": "English Horn",
+      "file": "value.a0ddb7e7e34e3a9724f28795d2f2c341d02ca8645ffaa02eaeeb535d9b1d0a10.ogg"
+    },
+    "70": {
+      "name": "Bassoon",
+      "file": "value.6e578191c406c8913dd9416c53c20437a32aa2e3d136a5d7a768c0820ecf04f6.ogg"
+    },
+    "71": {
+      "name": "Clarinet",
+      "file": "value.710a0e5981dbf155897975b3e53775554ccd79c7f47f204c0ce7a1c46d9ae573.ogg"
+    },
+    "72": {
+      "name": "Piccolo",
+      "file": "value.c2dca075df20d48577e42662c2650b072a20371a670d836ba04f5d91a4173ddb.ogg"
+    },
+    "73": {
+      "name": "Flute",
+      "file": "value.af35c3b0348c881c26d8fb553f0cc2fd9931b1dd30eaa55720ee086676a60e80.ogg"
+    },
+    "74": {
+      "name": "Recorder",
+      "file": "value.4229fda7c89dda08d2b4c5bf301747d19fec7b8874a002391b5bab726d70c054.ogg"
+    },
+    "75": {
+      "name": "Pan Flute",
+      "file": "value.52f77e60ff65bf145dfcb08054f99a78efe22a04fc2059742e525aba6861c645.ogg"
+    },
+    "76": {
+      "name": "Blown Bottle",
+      "file": "value.3a187ebd5636bc5402d8639f025a6732a98b16f80a0bd4ff3ab20b2de6c49325.ogg"
+    },
+    "77": {
+      "name": "Shakuhachi",
+      "file": "value.22d58d3a3f1e2a6e738ccd5b9437d368cccc15d1fe4eb472d4be7f38f03116d4.ogg"
+    },
+    "78": {
+      "name": "Whistle",
+      "file": "value.b7ebf9acefc061f97c840ce350ff099ccd18f2a950b1f27cd7d30055513321d2.ogg"
+    },
+    "79": {
+      "name": "Ocarina",
+      "file": "value.ea9a57307862aefdb5bfab83ca54fddbf0050236ef121df286352a4235e57581.ogg"
+    },
+    "80": {
+      "name": "Lead 1 Square",
+      "file": "value.87a67eb0f7bdcb74e193aa7e14b6e1722c4beb19c5bf2cbcbc07df364f9da063.ogg"
+    },
+    "81": {
+      "name": "Lead 2 Sawtooth",
+      "file": "value.a44ef8bc9f99ac5c481b7f324ab43099dd5bc6bf27fc911b1ac6f8f8b01f026e.ogg"
+    },
+    "82": {
+      "name": "Lead 3 Calliope",
+      "file": "value.50169b0942c7001e68cf9103f3edf5a98de62c3c88116cd6ce2b85a99671375f.ogg"
+    },
+    "83": {
+      "name": "Lead 4 Chiff",
+      "file": "value.76efedac44ee0e42a72410cce1c308d1e035b0a445d85fffc42df0e222a23193.ogg"
+    },
+    "84": {
+      "name": "Lead 5 Charang",
+      "file": "value.f9074940ae02ac261f7b4d6af211e7e36c9d246246fbd1b965062e60c0cb257a.ogg"
+    },
+    "85": {
+      "name": "Lead 6 Voice",
+      "file": "value.7dffa86e57f0d025503e3fb4a1aa8922315b6095c179fca0acc0448bd8bf06bf.ogg"
+    },
+    "86": {
+      "name": "Lead 7 Fifths",
+      "file": "value.38a30a01c2fae2a5fd95cf4b35d5cf32675962dd15300ad222ca705f5271da42.ogg"
+    },
+    "87": {
+      "name": "Lead 8 Bass  Lead",
+      "file": "value.a00c0b14ae4b6bdfbc882aae155b56e57be874de7f7d55fae24d8ebd74903cf8.ogg"
+    },
+    "88": {
+      "name": "Pad 1 New Age",
+      "file": "value.6574b856f06c0f5568bcee20ca0c991e81e44439ee99e602f5c96147b7eab008.ogg"
+    },
+    "89": {
+      "name": "Pad 2 Warm",
+      "file": "value.035595899fd154c5a543c880c0b956ecea7b2f86100d437c396af40a5156433e.ogg"
+    },
+    "90": {
+      "name": "Pad 3 Polysynth",
+      "file": "value.0644f25644f039dfefb033fd8f0102b0527ab142439c43160de40629ae966adb.ogg"
+    },
+    "91": {
+      "name": "Pad 4 Choir",
+      "file": "value.0a06e7f20215b5472e7754eb5df7902d77f6a9dd175cf284428e39dca2a64119.ogg"
+    },
+    "92": {
+      "name": "Pad 5 Bowed",
+      "file": "value.80dba31a66cbd1e43a4f6fc4f83118099f337c08f3e014c1ca35473c3ed28bcc.ogg"
+    },
+    "93": {
+      "name": "Pad 6 Metallic",
+      "file": "value.3ba638a85224d1700c255ea6e8b5179011cce1365d6f8e0b45c8bc9017b750fc.ogg"
+    },
+    "94": {
+      "name": "Pad 7 Halo",
+      "file": "value.50de9bc9e847cb866c2519fb9f986a76ff8edbfe2909571718006a8834164c12.ogg"
+    },
+    "95": {
+      "name": "Pad 8 Sweep",
+      "file": "value.0dc9f8bc2500ab68fb2f2c75299a70c79b7a7475b6f420eb77dbb4a6c00c7de0.ogg"
+    },
+    "96": {
+      "name": "FX 1 Rain",
+      "file": "value.62a4e96c73e8703d40ec8640dc9308270d0270222a27a6f041b26ed045caf052.ogg"
+    },
+    "97": {
+      "name": "FX 2 Soundtrack",
+      "file": "value.86b37079b72d50090676456ba4ad9fec2ca3ba68f288aa2149a9e0d8892265fe.ogg"
+    },
+    "98": {
+      "name": "FX 3 Crystal",
+      "file": "value.c6122d2ff1d5518ea62ace10304095ac162a6f9f68717b7413e97b0451eabcd4.ogg"
+    },
+    "99": {
+      "name": "FX 4 Atmosphere",
+      "file": "value.a64134c37087aa46a3de75d9a78810bb54fd2a2aa1902c4e726c549cd397e6ed.ogg"
+    },
+    "100": {
+      "name": "FX 5 Brightness",
+      "file": "value.17f1a7dc2d813241e49994109001defdc07d94389da1d6fbd337b57e7e0bbda4.ogg"
+    },
+    "101": {
+      "name": "FX 6 Goblins",
+      "file": "value.0afb528d6084ffdd2e265b0822abede16a1c3636240c0bff70bd7bbf84b202ee.ogg"
+    },
+    "102": {
+      "name": "FX 7 Echoes",
+      "file": "value.0ea0528c408f32668a879bc236f1105958a0c3aca08f43408e4d4a8e6428f171.ogg"
+    },
+    "103": {
+      "name": "FX 8 Scifi",
+      "file": "value.7f8103aacf2ebb320b2b9287eec9034d6c895735e76e9571e1d8b6fc8e8ee151.ogg"
+    },
+    "104": {
+      "name": "Sitar",
+      "file": "value.492ad5391764561c9b3a63eb31d8f6478ea4179ac0cb345ab81e5cbc3614bae9.ogg"
+    },
+    "105": {
+      "name": "Banjo",
+      "file": "value.45e5f2a517bee178bb05d7178a8148887c55b2b728044e79a1b1c52e72011512.ogg"
+    },
+    "106": {
+      "name": "Shamisen",
+      "file": "value.09687ea29a8a3db4bc53a4a1e181019de0b959d11c11184a730913ae556cc04e.ogg"
+    },
+    "107": {
+      "name": "Koto",
+      "file": "value.998f04fa9ff5521f754f2a69296a78693af456c0c17b5fa3706dcaa759560605.ogg"
+    },
+    "108": {
+      "name": "Kalimba",
+      "file": "value.cd4239aa352862558a95510c59451dc483f779aaf4c715523d72f0dcb84731b0.ogg"
+    },
+    "109": {
+      "name": "Bagpipe",
+      "file": "value.6f94759826407b95d1077df6449191730e49f96aa59ae683778058a14fd435fd.ogg"
+    },
+    "110": {
+      "name": "Fiddle",
+      "file": "value.6f77588b70be23b321fb768a467a5d6d0d673949b15362f8552138056580b4fc.ogg"
+    },
+    "111": {
+      "name": "Shanai",
+      "file": "value.20e4093c1541e3d8e1d8f0454072fc8b387de9f66185b0dcac7c162a1311523b.ogg"
+    },
+    "112": {
+      "name": "Tinkle Bell",
+      "file": "value.ffa13b8e25602d6d268184072f9de31ee1a0d3cf0a35d8802fa37027c477236d.ogg"
+    },
+    "113": {
+      "name": "Agogo",
+      "file": "value.e002220bf081bb9fdb529ad92d78445097ed9af1a4ada6b959760f77a4dc9242.ogg"
+    },
+    "114": {
+      "name": "Steel Drums",
+      "file": "value.fb24659d92d7de3bfb51d7772bd131f4edf5d5c15773fc1a021dc4433e604810.ogg"
+    },
+    "115": {
+      "name": "Woodblock",
+      "file": "value.83b87e1a9623387950b6099a46e97f22be4e8432e53093e0b965c6de8795d5ba.ogg"
+    },
+    "116": {
+      "name": "Taiko Drum",
+      "file": "value.ee66f5f49978cfb47c83b99a299b245f57da5c15f5ce92d1ffc030bfada557eb.ogg"
+    },
+    "117": {
+      "name": "Melodic Tom",
+      "file": "value.2fb972b3b237b6a46cd874b3417e24de99d19eb35fb2aff85ba3703772b5a27b.ogg"
+    },
+    "118": {
+      "name": "Synth Drum",
+      "file": "value.c85b34e31ed7fec029db4d4a996f5febd93761cde105e7ac9556d3e4386d18b5.ogg"
+    },
+    "119": {
+      "name": "Reverse Cymbal",
+      "file": "value.8667f496f36933471f293246421e70308ff992f2e67c32a2dda23c99d164de54.ogg"
+    },
+    "120": {
+      "name": "Guitar Fret Noise",
+      "file": "value.87f40206b4e6ef11000e4e816c09a94ea81b4c63b190c578e1f47d1fa7bb4604.ogg"
+    },
+    "121": {
+      "name": "Breath Noise",
+      "file": "value.0ec572a9d8061a68940f29c5d2a0ceff43d2149fc8403a9399422b7642763841.ogg"
+    },
+    "122": {
+      "name": "Seashore",
+      "file": "value.8fd1808cfdafdee776e8344b4777a06c124ec747f10bdb926e24ea28f47623af.ogg"
+    },
+    "123": {
+      "name": "Bird Tweet",
+      "file": "value.fefa727249a42dcb3a053cc6f86f76a6741d0ecbfd9488b0e52d8b734f5e86d3.ogg"
+    },
+    "124": {
+      "name": "Telephone Ring",
+      "file": "value.c7b358179164dbd43a6583d3fb8d2336a057170b8932254f5cb5d456331eeb26.ogg"
+    },
+    "125": {
+      "name": "Helicopter",
+      "file": "value.7b60ef2eb3a0fa651c2f813563f552f756c43bc56502af49d03decf4d9d1f682.ogg"
+    },
+    "126": {
+      "name": "Applause",
+      "file": "value.f0577c10f5ea69cb2df26ead28b9d61e17296333eebc1b742e1bf04e53f64b65.ogg"
+    },
+    "127": {
+      "name": "Gunshot",
+      "file": "value.8ce4a4f8cde76fc75ee4ba5f2d04a62720537966e48603fdba84192d71823e9b.ogg"
+    }
+  },
+  "drum_kits": {
+    "acoustic": "value.660d0edd94bda3718cd272f98047503f696c7dfad054e2ca112b2702348e8563.ogg",
+    "tr808": "value.c7fdb3baf4d838bb9d2d46ee106460a0ae9cd6bf065e1be868a7829372a76d30.ogg",
+    "tr909": "value.91f7c71b951a36750705633a0f60584791336d0fcee1836eafd09ea877f1dca8.ogg",
+    "linn": "value.34532254af710c1d9fade744bb3bd361513d0db3f406231323ca43111a6aa48d.ogg"
+  }
+}
